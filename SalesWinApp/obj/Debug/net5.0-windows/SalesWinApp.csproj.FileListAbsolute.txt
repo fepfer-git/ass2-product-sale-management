@@ -1,0 +1,132 @@
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\SalesWinApp.exe
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\SalesWinApp.deps.json
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\SalesWinApp.runtimeconfig.json
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\SalesWinApp.runtimeconfig.dev.json
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\SalesWinApp.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\ref\SalesWinApp.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\SalesWinApp.pdb
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\BusinessObject.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\DataAccess.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\BusinessObject.pdb
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\DataAccess.pdb
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.csproj.AssemblyReference.cache
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.frmLogin.resources
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.csproj.GenerateResource.cache
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.AssemblyInfoInputs.cache
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.AssemblyInfo.cs
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.csproj.CoreCompileInputs.cache
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.csproj.CopyComplete
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\ref\SalesWinApp.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.pdb
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.genruntimeconfig.cache
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\appsetting.json
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.frmMain.resources
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.frmProduct.resources
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\SalesWinApp.exe
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\appsetting.json
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\SalesWinApp.deps.json
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\SalesWinApp.runtimeconfig.json
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\SalesWinApp.runtimeconfig.dev.json
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\SalesWinApp.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\ref\SalesWinApp.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\SalesWinApp.pdb
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Humanizer.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\BusinessObject.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\DataAccess.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\BusinessObject.pdb
+D:\Ass02Solution_StudentCode\SalesWinApp\bin\Debug\net5.0-windows\DataAccess.pdb
+D:\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.csproj.AssemblyReference.cache
+D:\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.frmLogin.resources
+D:\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.frmMain.resources
+D:\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.frmProduct.resources
+D:\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.csproj.GenerateResource.cache
+D:\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.AssemblyInfoInputs.cache
+D:\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.AssemblyInfo.cs
+D:\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.csproj.CoreCompileInputs.cache
+D:\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.csproj.CopyComplete
+D:\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\ref\SalesWinApp.dll
+D:\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.pdb
+D:\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.genruntimeconfig.cache
+D:\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.frmMembers.resources
+D:\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.frmOrderDetail.resources
+D:\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.frmOrderDetailUpdateAndCreate.resources
+D:\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.frmUserPage.resources
+D:\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.frmOrderCreate.resources
+D:\Ass02Solution_StudentCode\SalesWinApp\obj\Debug\net5.0-windows\SalesWinApp.frmOrderUpdate.resources

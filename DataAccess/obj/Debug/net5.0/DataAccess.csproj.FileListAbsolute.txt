@@ -1,0 +1,38 @@
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\DataAccess\bin\Debug\net5.0\appsetting.json
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+D:\Ass02Solution_StudentCode\DataAccess\bin\Debug\net5.0\appsetting.json
+D:\Ass02Solution_StudentCode\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\Ass02Solution_StudentCode\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+D:\Ass02Solution_StudentCode\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+D:\Ass02Solution_StudentCode\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\Ass02Solution_StudentCode\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+D:\Ass02Solution_StudentCode\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\Ass02Solution_StudentCode\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+D:\Ass02Solution_StudentCode\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+D:\Ass02Solution_StudentCode\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\Ass02Solution_StudentCode\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ass02Solution_StudentCode\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\Ass02Solution_StudentCode\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\Ass02Solution_StudentCode\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Ass02Solution_StudentCode\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+D:\Ass02Solution_StudentCode\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\Ass02Solution_StudentCode\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+D:\Ass02Solution_StudentCode\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\Ass02Solution_StudentCode\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache

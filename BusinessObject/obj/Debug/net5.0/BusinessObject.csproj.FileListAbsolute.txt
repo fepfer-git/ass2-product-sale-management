@@ -1,0 +1,30 @@
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\BusinessObject\bin\Debug\net5.0\ref\BusinessObject.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.json
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.dev.json
+C:\Users\tvfep\OneDrive - fepfer\FPTU\Semester - 5\PRN211\ASS2\Ass02Solution_StudentCode\BusinessObject\obj\Debug\net5.0\BusinessObject.genruntimeconfig.cache
+D:\Ass02Solution_StudentCode\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+D:\Ass02Solution_StudentCode\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.json
+D:\Ass02Solution_StudentCode\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.dev.json
+D:\Ass02Solution_StudentCode\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+D:\Ass02Solution_StudentCode\BusinessObject\bin\Debug\net5.0\ref\BusinessObject.dll
+D:\Ass02Solution_StudentCode\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+D:\Ass02Solution_StudentCode\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+D:\Ass02Solution_StudentCode\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ass02Solution_StudentCode\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+D:\Ass02Solution_StudentCode\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+D:\Ass02Solution_StudentCode\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\Ass02Solution_StudentCode\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+D:\Ass02Solution_StudentCode\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+D:\Ass02Solution_StudentCode\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+D:\Ass02Solution_StudentCode\BusinessObject\obj\Debug\net5.0\BusinessObject.genruntimeconfig.cache
